@@ -1,0 +1,2 @@
+This folder contains Maximum Temperature data for 
+['PERTH AIRPORT','GOSNELLS CITY','SWANBOURNE','PERTH METRO','HILLARYS BOAT HARBOUR NTC AWS']
