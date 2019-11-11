@@ -6,4 +6,4 @@ The notebooks in this folder contain the completed Perth weather station tutoria
 3. Using Spark as a scheduled batch job to create a data pipeline
 4. Exploring data using a SQL server directly
 
-To run the notebooks, download them onto your computer and upload them into your Neuroverse Notebook Session.
+The suggested workflow is to have the github notebook open in a browser tab and rewrite the contents of the tutorial notebook in a new Neuroverse notebook. This approach will encourage you to understand the code rather than just copy it.
