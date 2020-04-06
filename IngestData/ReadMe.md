@@ -8,3 +8,4 @@ As opposed to an IOT Hub which is well suited to data coming from decentralised 
 2. Configure capture of the raw data being sent to that event hub
 3. Send a test payload
 4. Access the data landed in the DataLake using spark
+5. Setup scheduled job that transforms landed data and stores it in a sql table.
