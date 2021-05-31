@@ -6,4 +6,6 @@ The notebooks in this folder contain the completed Perth weather station tutoria
 3. Using Spark as a scheduled batch job to create a data pipeline
 4. Exploring data using a SQL server directly
 
+This tutorial uses the default spark cluster, a sql data store and a data lake. It assumes  they are created and configured appropriately.
+
 The suggested workflow is to have the github notebook open in a browser tab and rewrite the contents of the tutorial notebook in a new Neuroverse notebook. This approach will encourage you to understand the code rather than just copy it.
